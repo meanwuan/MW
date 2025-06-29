@@ -3,6 +3,134 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\THweb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\implementations\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\implementations\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\orderhistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\views\\ordermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\views\\ordermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\viewmodels\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\viewmodels\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\controllers\\feedbackmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\controllers\\feedbackmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,28 +143,8 @@
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\viewmodels\\checkoutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\viewmodels\\cartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,48 +159,8 @@
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\views\\productmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\views\\productmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250629005114_AddStockQuantityToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250629005114_AddStockQuantityToProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\controllers\\feedbackmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\controllers\\feedbackmanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,10 +187,6 @@
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,14 +207,6 @@
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\interfaces\\ifeedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\controllers\\ordermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\controllers\\ordermanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -158,20 +214,8 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\views\\ordermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\views\\ordermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\views\\productmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\views\\productmanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\feedback\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\areas\\admin\\views\\feedbackmanagement\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -182,20 +226,12 @@
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\admin\\views\\feedbackmanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\account\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\orderhistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -210,44 +246,12 @@
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:areas\\identity\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\implementations\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\implementations\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\implementations\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:services\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\viewmodels\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\viewmodels\\feedbackviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:models\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|c:\\users\\admin\\source\\repos\\thweb\\migrations\\20250629005114_addstockquantitytoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5644FD88-3849-4EC0-8315-5EE7BF1FF674}|THweb.csproj|solutionrelative:migrations\\20250629005114_addstockquantitytoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -257,283 +261,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\CartController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\CartController.cs",
-              "RelativeToolTip": "Controllers\\CartController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAUwEUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:30:15.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CartViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\CartViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\CartViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\CartViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModels\\CartViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:11:47.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T01:37:23.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CheckoutViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\CheckoutViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\CheckoutViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\CheckoutViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModels\\CheckoutViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:12:06.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CheckoutController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\CheckoutController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\CheckoutController.cs",
-              "RelativeToolTip": "Controllers\\CheckoutController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:30:34.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T01:34:55.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\ProductService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\ProductService.cs",
-              "RelativeToolTip": "Services\\Implementations\\ProductService.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAmwDoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:19:52.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:34:10.18Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_NavBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_NavBar.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_NavBar.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_NavBar.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_NavBar.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAkAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T01:37:57.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T01:38:49.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderConfirmation.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Checkout\\OrderConfirmation.cshtml",
-              "RelativeDocumentMoniker": "Views\\Checkout\\OrderConfirmation.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Checkout\\OrderConfirmation.cshtml",
-              "RelativeToolTip": "Views\\Checkout\\OrderConfirmation.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T03:52:29.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Order.cs",
-              "RelativeToolTip": "Models\\Entities\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:09:00.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IOrderService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:17:52.295Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FeedbackController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\FeedbackController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\FeedbackController.cs",
-              "RelativeToolTip": "Controllers\\FeedbackController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:30:49.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Checkout\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Checkout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Checkout\\Index.cshtml",
-              "RelativeToolTip": "Views\\Checkout\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T01:41:14.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T11:06:59.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:17:19.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\OrderService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\OrderService.cs",
-              "RelativeToolTip": "Services\\Implementations\\OrderService.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAiwHwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:20:33.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20250629005114_AddStockQuantityToProduct.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250629005114_AddStockQuantityToProduct.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250629005114_AddStockQuantityToProduct.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250629005114_AddStockQuantityToProduct.cs",
-              "RelativeToolTip": "Migrations\\20250629005114_AddStockQuantityToProduct.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T00:51:14.777Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T12:40:30.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FeedbackManagementController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\FeedbackManagementController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\FeedbackManagementController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\FeedbackManagementController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\FeedbackManagementController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T11:07:27.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -546,33 +278,292 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAawEwAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\CartService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\CartService.cs",
+              "RelativeToolTip": "Services\\Implementations\\CartService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:44:33.111Z",
+              "WhenOpened": "2025-06-28T01:20:08.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\FeedbackService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\FeedbackService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\FeedbackService.cs",
+              "RelativeToolTip": "Services\\Implementations\\FeedbackService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:20:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "Services\\Implementations\\OrderService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAiwIwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:20:33.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:19:52.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:17:37.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFeedbackService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IFeedbackService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IFeedbackService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IFeedbackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:18:25.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:17:52.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:17:19.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\CartItem.cs",
+              "RelativeToolTip": "Models\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:08:44.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Cart.cs",
+              "RelativeToolTip": "Models\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:08:28.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wBcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:24:34.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:29:58.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\OrderHistoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderHistoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\OrderHistoryController.cs",
+              "RelativeToolTip": "Controllers\\OrderHistoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T22:30:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FeedbackController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\FeedbackController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeedbackController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\FeedbackController.cs",
+              "RelativeToolTip": "Controllers\\FeedbackController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:30:49.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CheckoutController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:30:34.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:30:15.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAiwGkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:34:10.18Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T01:33:13.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\OrderManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\OrderManagement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\OrderManagement\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\OrderManagement\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T02:39:58.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CheckoutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\CheckoutViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\CheckoutViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\CheckoutViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\CheckoutViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:12:06.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Product.cs",
               "RelativeToolTip": "Models\\Entities\\Product.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T01:08:10.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:29:42.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\OrderDetail.cs",
               "RelativeDocumentMoniker": "Models\\Entities\\OrderDetail.cs",
@@ -585,343 +576,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\OrderManagement\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\OrderManagement\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\OrderManagement\\Edit.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\OrderManagement\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T10:41:48.475Z"
+              "DocumentIndex": 23,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "Models\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:09:00.172Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ProductManagementController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\ProductManagementController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductManagementController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\ProductManagementController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductManagementController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "Models\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T11:06:30.731Z"
+              "WhenOpened": "2025-06-28T01:10:59.708Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\OrderHistory\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\OrderHistory\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\OrderHistory\\Details.cshtml",
-              "RelativeToolTip": "Views\\OrderHistory\\Details.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T04:22:35.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T02:52:11.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T01:33:13.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ProductViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\ProductViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\ProductViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\ProductViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModels\\ProductViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:11:32.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "wwwroot\\css\\site.css",
-              "ViewState": "AgIAADAAAAAAAAAAAADwv1QAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-06-28T01:42:58.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T15:36:13.429Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T12:58:31.965Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-28T01:44:08.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IFeedbackService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IFeedbackService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\IFeedbackService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\IFeedbackService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\IFeedbackService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:18:25.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "OrderManagementController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\OrderManagementController.cs",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OrderManagementController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\OrderManagementController.cs",
-              "RelativeToolTip": "Areas\\Admin\\Controllers\\OrderManagementController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T02:39:34.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:29:42.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\OrderManagement\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\OrderManagement\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\OrderManagement\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\OrderManagement\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T02:39:58.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwB0AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T12:25:02.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\FeedbackManagement\\Details.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\FeedbackManagement\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\FeedbackManagement\\Details.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\FeedbackManagement\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T11:08:30.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAPMUAAAAAAAAAAAiwBIVAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-28T13:27:51.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\CartItem.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\CartItem.cs",
-              "RelativeToolTip": "Models\\Entities\\CartItem.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:08:44.172Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Feedback\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Feedback\\Index.cshtml",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Feedback\\Index.cshtml",
               "RelativeToolTip": "Views\\Feedback\\Index.cshtml",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxYAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwC4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-28T01:41:53.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\FeedbackManagement\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\FeedbackManagement\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\FeedbackManagement\\Index.cshtml",
-              "RelativeToolTip": "Areas\\Admin\\Views\\FeedbackManagement\\Index.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAswEAAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T11:08:10.799Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T02:52:15.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Profile.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Profile.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Profile.cshtml",
-              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T01:36:21.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDAAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 26,
+              "Title": "FeedbackViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\FeedbackViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\FeedbackViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\FeedbackViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\FeedbackViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:29:58.463Z"
+              "WhenOpened": "2025-06-28T01:12:22.913Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAkwBQAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Feedback.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Feedback.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Feedback.cs",
+              "RelativeToolTip": "Models\\Entities\\Feedback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:24:34.613Z"
+              "WhenOpened": "2025-06-28T01:10:33.602Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T01:35:44.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\OrderHistory\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\OrderHistory\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\OrderHistory\\Index.cshtml",
-              "RelativeToolTip": "Views\\OrderHistory\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T04:21:53.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Identity\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "Areas\\Identity\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Identity\\ApplicationUser.cs",
-              "RelativeToolTip": "Areas\\Identity\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:33:49.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Cart\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Cart\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-28T01:40:39.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 29,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
@@ -933,99 +651,399 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-28T01:39:20.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\CartService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\CartService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\CartService.cs",
-              "RelativeToolTip": "Services\\Implementations\\CartService.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "FeedbackManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\FeedbackManagementController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\FeedbackManagementController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\FeedbackManagementController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\FeedbackManagementController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:20:08.213Z"
+              "WhenOpened": "2025-06-28T11:07:27.984Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "FeedbackService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\FeedbackService.cs",
-              "RelativeDocumentMoniker": "Services\\Implementations\\FeedbackService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Implementations\\FeedbackService.cs",
-              "RelativeToolTip": "Services\\Implementations\\FeedbackService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "_NavBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_NavBar.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_NavBar.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_NavBar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T01:37:57.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T01:34:55.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T01:37:23.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\CartViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\CartViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\CartViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\CartViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:20:52.015Z"
+              "WhenOpened": "2025-06-28T01:11:47.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T01:38:49.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Checkout\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Checkout\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\OrderConfirmation.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T03:52:29.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Checkout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "Views\\Checkout\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T01:41:14.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\ProductManagement\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T11:06:59.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250629005114_AddStockQuantityToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250629005114_AddStockQuantityToProduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250629005114_AddStockQuantityToProduct.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Migrations\\20250629005114_AddStockQuantityToProduct.cs",
+              "RelativeToolTip": "Migrations\\20250629005114_AddStockQuantityToProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T00:51:14.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\ProductManagement\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T12:40:30.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAawEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:44:33.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\OrderManagement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\OrderManagement\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\OrderManagement\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\OrderManagement\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T10:41:48.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\ProductManagementController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductManagementController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\ProductManagementController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T11:06:30.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\OrderHistory\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderHistory\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\OrderHistory\\Details.cshtml",
+              "RelativeToolTip": "Views\\OrderHistory\\Details.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T04:22:35.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T02:52:11.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:11:32.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv1QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-28T01:42:58.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T15:36:13.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T12:58:31.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T01:44:08.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderManagementController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\OrderManagementController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OrderManagementController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Controllers\\OrderManagementController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\OrderManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:39:34.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\ProductManagement\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwB0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T12:25:02.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\FeedbackManagement\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\FeedbackManagement\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\FeedbackManagement\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\FeedbackManagement\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T11:08:30.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAPMUAAAAAAAAAAAiwBIVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-28T13:27:51.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\FeedbackManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\FeedbackManagement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Admin\\Views\\FeedbackManagement\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\FeedbackManagement\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswEAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T11:08:10.799Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 57,
-              "Title": "ICartService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\ICartService.cs",
-              "RelativeDocumentMoniker": "Services\\Interfaces\\ICartService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Services\\Interfaces\\ICartService.cs",
-              "RelativeToolTip": "Services\\Interfaces\\ICartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:17:37.223Z"
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T02:52:15.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "FeedbackViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\FeedbackViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewModels\\FeedbackViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\ViewModels\\FeedbackViewModel.cs",
-              "RelativeToolTip": "Models\\ViewModels\\FeedbackViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:12:22.913Z"
+              "DocumentIndex": 56,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Profile.cshtml",
+              "RelativeToolTip": "Views\\Account\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T01:36:21.319Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 59,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Category.cs",
-              "RelativeToolTip": "Models\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:10:59.708Z"
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T01:35:44.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\OrderHistory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\OrderHistory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\OrderHistory\\Index.cshtml",
+              "RelativeToolTip": "Views\\OrderHistory\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T04:21:53.838Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 60,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Feedback.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Feedback.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Feedback.cs",
-              "RelativeToolTip": "Models\\Entities\\Feedback.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Identity\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Areas\\Identity\\ApplicationUser.cs",
+              "RelativeToolTip": "Areas\\Identity\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:10:33.602Z"
+              "WhenOpened": "2025-06-28T01:33:49.951Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 61,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Cart.cs",
-              "RelativeDocumentMoniker": "Models\\Entities\\Cart.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Models\\Entities\\Cart.cs",
-              "RelativeToolTip": "Models\\Entities\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:08:28.186Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\THweb\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-28T01:40:39.957Z"
             }
           ]
         }

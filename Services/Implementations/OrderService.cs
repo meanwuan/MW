@@ -113,13 +113,13 @@ namespace THweb.Services.Implementations
                         }
                     }
 
-                    // 2. Nếu tất cả sản phẩm đều đủ hàng, tiến hành tạo đơn hàng
+                    
                     order.OrderDate = DateTime.Now;
                     order.Status = OrderStatus.Pending;
                     _context.Orders.Add(order);
                     await _context.SaveChangesAsync();
 
-                    // 3. Tạo chi tiết đơn hàng và trừ số lượng tồn kho
+                    
                     foreach (var item in cartItems)
                     {
                         var orderDetail = new OrderDetail
@@ -131,14 +131,14 @@ namespace THweb.Services.Implementations
                         };
                         _context.OrderDetails.Add(orderDetail);
 
-                        // Trừ số lượng tồn kho
+                        
                         var productToUpdate = await _context.Products.FindAsync(item.ProductId);
                         productToUpdate.StockQuantity -= item.Quantity;
                     }
 
                     await _context.SaveChangesAsync();
 
-                    // Nếu mọi thứ thành công, commit transaction
+                   
                     await transaction.CommitAsync();
 
                     return (true, "Đặt hàng thành công!");

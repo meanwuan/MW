@@ -15,7 +15,11 @@
                         <h5 class="card-title">@product.Name</h5>
                         <p class="card-text">@product.Price.ToString("C")</p>
                         <p class="card-text"><small class="text-muted">@product.CategoryName</small></p>
-                        <a href="@Url.Action("Details", "Product", new { id = product.Id })" class="btn btn-primary">Xem chi tiết</a>
+                        <a asp-action="Details" asp-controller="Product" asp-route-id="@product.Id" class="btn btn-primary">Xem chi tiết</a>
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <a asp-action="Index" asp-controller="Feedback" asp-route-productId="@product.Id" class="btn btn-secondary">Phản hồi</a>
+                        }
                     </div>
                 </div>
             </div>

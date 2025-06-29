@@ -1,5 +1,15 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\images\dellp2422h.jpg
+wwwroot\images\dellxps13.jpg
+wwwroot\images\epsonebe01.jpg
+wwwroot\images\galaxys23ultra.jpg
+wwwroot\images\macbookairm2.jpg
+wwwroot\images\opporeno10.jpg
+wwwroot\images\tvsamsung55.jpg
+wwwroot\images\vivov27pro.jpg
+wwwroot\images\xiaomi13t.jpg
+wwwroot\images\zenscreen.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map

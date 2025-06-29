@@ -5,8 +5,15 @@
 }
 
 <div class="container">
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
     <h2>Phản Hồi cho @Model.ProductName</h2>
     <form method="post" asp-action="Index" asp-controller="Feedback">
+        <div asp-validation-summary="All" class="text-danger"></div>
         <input type="hidden" asp-for="ProductId" />
         <div class="form-group">
             <label asp-for="Comment">Bình luận</label>
@@ -30,7 +37,7 @@
                 <li class="list-group-item">
                     <p><strong>Đánh giá:</strong> @feedback.Rating/5</p>
                     <p>@feedback.Comment</p>
-                    <small>Đăng bởi @feedback.UserId vào @feedback.CreatedAt.ToString("dd/MM/yyyy")</small>
+                    <small>Đăng bởi @feedback.UserId vào @feedback.CreatedAt.ToLocalTime().ToString("dd/MM/yyyy HH:mm")</small>
                 </li>
             }
         </ul>

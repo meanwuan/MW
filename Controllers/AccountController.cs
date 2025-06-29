@@ -16,14 +16,11 @@ namespace THweb.Areas.Identity.Controllers
             _signInManager = signInManager;
         }
 
-        // GET: Đăng nhập
         [HttpGet]
         public IActionResult Login()
         {
             return View();
         }
-
-        // POST: Đăng nhập
         [HttpPost]
         public async Task<IActionResult> Login(string email, string password, bool rememberMe)
         {
@@ -51,15 +48,11 @@ namespace THweb.Areas.Identity.Controllers
 
             return View();
         }
-
-        // GET: Đăng ký
         [HttpGet]
         public IActionResult Register()
         {
             return View();
         }
-
-        // POST: Đăng ký
         [HttpPost]
         public async Task<IActionResult> Register(string email, string password, string fullName, string address)
         {
@@ -80,8 +73,6 @@ namespace THweb.Areas.Identity.Controllers
 
             return View();
         }
-
-        // GET: Hồ sơ
         [HttpGet]
         public async Task<IActionResult> Profile()
         {
@@ -91,8 +82,6 @@ namespace THweb.Areas.Identity.Controllers
 
             return View(user);
         }
-
-        // POST: Cập nhật hồ sơ
         [HttpPost]
         public async Task<IActionResult> Profile(ApplicationUser model)
         {
@@ -115,8 +104,6 @@ namespace THweb.Areas.Identity.Controllers
 
             return View(model);
         }
-
-        // Đăng xuất
         [HttpPost]
         public async Task<IActionResult> Logout()
         {

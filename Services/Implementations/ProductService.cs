@@ -50,8 +50,6 @@ namespace THweb.Services.Implementations
         }
         public async Task<IEnumerable<Product>> GetFeaturedProductsAsync()
         {
-            // Ví dụ: Lấy 4 sản phẩm đầu tiên hoặc bạn có thể thêm logic
-            // để lấy sản phẩm dựa trên một trường IsFeatured chẳng hạn.
             return await _context.Products
                                  .OrderByDescending(p => p.Id)
                                  .Take(4)

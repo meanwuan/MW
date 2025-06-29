@@ -19,7 +19,11 @@ namespace THweb.Services.Implementations
         public async Task AddFeedbackAsync(Feedback feedback)
         {
             _context.Feedbacks.Add(feedback);
-            await _context.SaveChangesAsync();
+            var result = await _context.SaveChangesAsync();
+            if (result == 0)
+            {
+                throw new Exception("Không thể lưu phản hồi vào cơ sở dữ liệu.");
+            }
         }
 
         public async Task<IEnumerable<Feedback>> GetFeedbacksByProductIdAsync(int productId)

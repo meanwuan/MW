@@ -14,7 +14,6 @@ namespace THweb.Controllers
             _productService = productService;
         }
 
-        // Hiển thị danh sách sản phẩm
         public async Task<IActionResult> Index()
         {
             var products = await _productService.GetAllProductsAsync();
@@ -29,8 +28,6 @@ namespace THweb.Controllers
             });
             return View(productViewModels);
         }
-
-        // Hiển thị chi tiết sản phẩm
         public async Task<IActionResult> Details(int id)
         {
             var product = await _productService.GetProductByIdAsync(id);

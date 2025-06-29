@@ -21,14 +21,14 @@ namespace THweb.Data
         public DbSet<Feedback> Feedbacks { get; set; }
         public DbSet<Category> Categories { get; set; }
 
-        // DbSet cho ApplicationUser
+       
         public DbSet<ApplicationUser> ApplicationUsers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
-            // Cấu hình quan hệ
+            
             modelBuilder.Entity<Product>()
                 .HasOne(p => p.Category)
                 .WithMany(c => c.Products)
@@ -59,7 +59,7 @@ namespace THweb.Data
                 .WithMany()
                 .HasForeignKey(f => f.ProductId);
 
-            // Cấu hình precision và scale cho decimal
+            
             modelBuilder.Entity<Order>()
                 .Property(o => o.TotalAmount)
                 .HasColumnType("decimal(18,2)");
@@ -72,7 +72,7 @@ namespace THweb.Data
                 .Property(p => p.Price)
                 .HasColumnType("decimal(18,2)");
 
-            // Dữ liệu khởi tạo (seeding)
+            
             modelBuilder.Entity<Category>().HasData(
                 new Category { Id = 1, Name = "Điện tử", Description = "Sản phẩm điện tử" },
                 new Category { Id = 2, Name = "Thời trang", Description = "Sản phẩm thời trang" }

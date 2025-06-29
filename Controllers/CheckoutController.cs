@@ -57,7 +57,6 @@ namespace THweb.Controllers
                     TempData["ErrorMessage"] = message;
                     return View(model);
                 }
-                // Xóa giỏ hàng sau khi thanh toán thành công
                 await _cartService.ClearCartAsync(User.Identity.Name);
                 return RedirectToAction("Index", "OrderHistory");
             }
