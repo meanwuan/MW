@@ -1,0 +1,55 @@
+﻿@model THweb.Models.ViewModels.CartViewModel
+@{
+    ViewData["Title"] = "Giỏ Hàng";
+}
+
+<div class="container">
+    <h2>Giỏ Hàng</h2>
+    @if (Model.Items.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Sản phẩm</th>
+                    <th>Giá</th>
+                    <th>Số lượng</th>
+                    <th>Tổng</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Items)
+                {
+                    <tr>
+                        <td>
+                            <img src="@item.ImageUrl" alt="@item.ProductName" style="width: 50px; height: 50px;" />
+                            @item.ProductName
+                        </td>
+                        <td>@item.Price.ToString("C")</td>
+                        <td>
+                            <form method="post" asp-action="UpdateCart" asp-controller="Cart" class="d-inline">
+                                <input type="hidden" name="productId" value="@item.ProductId" />
+                                <input type="number" name="quantity" value="@item.Quantity" min="1" class="form-control w-25 d-inline" />
+                                <button type="submit" class="btn btn-sm btn-primary">Cập nhật</button>
+                            </form>
+                        </td>
+                        <td>@((item.Quantity * item.Price).ToString("C"))</td>
+                        <td>
+                            <form method="post" asp-action="RemoveFromCart" asp-controller="Cart">
+                                <input type="hidden" name="productId" value="@item.ProductId" />
+                                <button type="submit" class="btn btn-sm btn-danger">Xóa</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <h4>Tổng cộng: @Model.TotalPrice.ToString("C")</h4>
+        <a href="@Url.Action("Index", "Checkout")" class="btn btn-primary">Thanh toán</a>
+    }
+    else
+    {
+        <p>Giỏ hàng của bạn đang trống.</p>
+        <a href="@Url.Action("Index", "Product")" class="btn btn-primary">Tiếp tục mua sắm</a>
+    }
+</div>

@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Đăng Ký";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h2>Đăng Ký</h2>
+    <form method="post" asp-action="Register" asp-controller="Account" asp-area="Identity">
+        <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" name="email" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="password">Mật khẩu</label>
+            <input type="password" name="password" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="fullName">Họ và Tên</label>
+            <input type="text" name="fullName" class="form-control" required />
+        </div>
+        <div class="form-group">
+            <label for="address">Địa chỉ</label>
+            <input type="text" name="address" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">Đăng Ký</button>
+    </form>
+</div>

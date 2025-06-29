@@ -1,0 +1,40 @@
+﻿@model IEnumerable<THweb.Models.Entities.Order>
+@{
+    ViewData["Title"] = "Lịch Sử Mua Hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Lịch Sử Mua Hàng</h2>
+    @if (Model.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Mã đơn hàng</th>
+                    <th>Ngày đặt</th>
+                    <th>Tổng tiền</th>
+                    <th>Trạng thái</th>
+                    <th>Hành động</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.Id</td>
+                        <td>@order.OrderDate.ToString("dd/MM/yyyy HH:mm")</td>
+                        <td>@order.TotalAmount.ToString("C")</td>
+                        <td>Hoàn thành</td> <!-- Có thể mở rộng trạng thái sau -->
+                        <td><a asp-action="Details" asp-route-id="@order.Id" class="btn btn-info btn-sm">Xem chi tiết</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>Bạn chưa có đơn hàng nào.</p>
+        <a asp-action="Index" asp-controller="Product" class="btn btn-primary">Mua sắm ngay</a>
+    }
+</div>

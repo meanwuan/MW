@@ -1,0 +1,35 @@
+﻿@model THweb.Models.Entities.Order
+@{
+    ViewData["Title"] = "Chi Tiết Đơn Hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2>Chi Tiết Đơn Hàng #@Model.Id</h2>
+    <p><strong>Ngày đặt:</strong> @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+    <p><strong>Tổng tiền:</strong> @Model.TotalAmount.ToString("C")</p>
+    <p><strong>Địa chỉ giao hàng:</strong> @Model.ShippingAddress</p>
+    <h4>Chi tiết đơn hàng</h4>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Sản phẩm</th>
+                <th>Số lượng</th>
+                <th>Giá</th>
+                <th>Tổng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var detail in Model.OrderDetails)
+            {
+                <tr>
+                    <td>@detail.Product.Name</td>
+                    <td>@detail.Quantity</td>
+                    <td>@detail.Price.ToString("C")</td>
+                    <td>@(detail.Quantity* detail.Price).ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</div>

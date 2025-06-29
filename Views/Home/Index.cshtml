@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Trang Chủ";
+}
+
+<div class="banner">
+    <div class="container text-center">
+        <h2 class="banner-title">Chào mừng đến với THweb</h2>
+        <p class="banner-text">Khám phá các sản phẩm tuyệt vời của chúng tôi! Hãy bắt đầu mua sắm ngay hôm nay.</p>
+        <a asp-action="Index" asp-controller="Product" class="btn btn-primary">Xem sản phẩm</a>
+    </div>
+</div>
+
+<style>
+    .banner {
+        background-color: #3FA9D7; 
+        padding: 60px 0; 
+        margin-bottom: 20px; 
+    }
+
+    .banner-title {
+        font-size: 2.5rem;
+        margin-bottom: 1rem; 
+        color: #333; 
+    }
+
+    .banner-text {
+        font-size: 1.25rem; 
+        margin-bottom: 1.5rem; 
+        color: #666; 
+    }
+
+    .btn-primary {
+        padding: 10px 20px;
+        font-size: 1rem; 
+    }
+</style>

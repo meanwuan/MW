@@ -1,0 +1,64 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using THweb.Areas.Identity.Models
+@using THweb.Services.Interfaces
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+@inject ICartService CartService
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light" id="navbar">
+    <div class="container-fluid">
+        <a class="navbar-brand" asp-action="Index" asp-controller="Home" asp-area="">MW</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item"><a class="nav-link" asp-action="Index" asp-controller="Home" asp-area="">Trang chủ</a></li>
+                <li class="nav-item"><a class="nav-link" asp-action="Index" asp-controller="Product" asp-area="">Sản phẩm</a></li>
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    if (!await UserManager.IsInRoleAsync(await UserManager.GetUserAsync(User), "Admin"))
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link" asp-action="Index" asp-controller="Cart" asp-area="" id="cartLink">
+                                Giỏ hàng (<span id="uniqueProductCount">0</span>)
+                            </a>
+                        </li>
+                        <li class="nav-item"><a class="nav-link" asp-action="Index" asp-controller="OrderHistory" asp-area="">Lịch sử mua hàng</a></li>
+                    }
+                }
+            </ul>
+            <ul class="navbar-nav">
+                @if (SignInManager.IsSignedIn(User))
+                {
+                    <li class="nav-item"><a class="nav-link" asp-action="Profile" asp-controller="Account" asp-area="Identity">Hồ sơ</a></li>
+                    <li class="nav-item">
+                        <form method="post" asp-area="Identity" asp-controller="Account" asp-action="Logout" class="d-inline">
+                            <button type="submit" class="nav-link btn btn-link">Đăng xuất</button>
+                        </form>
+                    </li>
+                    @if ((await UserManager.GetRolesAsync(await UserManager.GetUserAsync(User))).Contains("Admin"))
+                    {
+                        <li class="nav-item"><a class="nav-link" asp-action="Index" asp-controller="Dashboard" asp-area="Admin">Quản trị</a></li>
+                    }
+                }
+                else
+                {
+                    <li class="nav-item"><a class="nav-link" asp-action="Login" asp-controller="Account" asp-area="Identity">Đăng nhập</a></li>
+                    <li class="nav-item"><a class="nav-link" asp-action="Register" asp-controller="Account" asp-area="Identity">Đăng ký</a></li>
+                }
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        fetch('/Cart/GetUniqueProductCount')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('uniqueProductCount').textContent = data;
+            })
+            .catch(error => console.error('Error fetching cart count:', error));
+    });
+</script>

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<THweb.Models.Entities.Feedback>
+@{
+    ViewData["Title"] = "Quản lý Phản hồi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var currentPage = ViewBag.CurrentPage;
+    var totalPages = ViewBag.TotalPages;
+    var searchString = ViewBag.SearchString;
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4">Quản lý Phản hồi</h2>
+    <form asp-action="Index" method="get" class="mb-3">
+        <div class="input-group">
+            <input type="text" name="searchString" value="@searchString" class="form-control" placeholder="Tìm kiếm theo bình luận hoặc sản phẩm..." />
+            <button type="submit" class="btn btn-primary">Tìm</button>
+        </div>
+    </form>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Sản phẩm</th>
+                <th>Người dùng</th>
+                <th>Đánh giá</th>
+                <th>Thời gian</th>
+                <th>Hành động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var feedback in Model)
+            {
+                <tr>
+                    <td>@feedback.Id</td>
+                    <td>@feedback.Product?.Name</td>
+                    <td>@feedback.UserId</td>
+                    <td>@feedback.Rating/5</td>
+                    <td>@feedback.CreatedAt.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@feedback.Id" class="btn btn-info btn-sm">Xem chi tiết</a>
+                        <form asp-action="Delete" asp-route-id="@feedback.Id" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Bạn có chắc muốn xóa?')">Xóa</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <!-- Phân trang -->
+    <nav aria-label="Page navigation">
+        <ul class="pagination justify-content-center">
+            <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = currentPage - 1, searchString })">Trước</a>
+            </li>
+            @for (int i = 1; i <= totalPages; i++)
+            {
+                <li class="page-item @(i == currentPage ? "active" : "")">
+                    <a class="page-link" href="@Url.Action("Index", new { page = i, searchString })">@i</a>
+                </li>
+            }
+            <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = currentPage + 1, searchString })">Sau</a>
+            </li>
+        </ul>
+    </nav>
+</div>

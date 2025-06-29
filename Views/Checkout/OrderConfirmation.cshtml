@@ -1,0 +1,45 @@
+﻿@model THweb.Models.Entities.Order
+@{
+    ViewData["Title"] = "Xác Nhận Đơn Hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <h2 class="text-center mb-4">Xác Nhận Đơn Hàng</h2>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Thông tin đơn hàng</h5>
+                    <p><strong>Mã đơn hàng:</strong> @Model.Id</p>
+                    <p><strong>Ngày đặt:</strong> @Model.OrderDate.ToString("dd/MM/yyyy HH:mm")</p>
+                    <p><strong>Tổng tiền:</strong> @Model.TotalAmount.ToString("C")</p>
+                    <p><strong>Địa chỉ giao hàng:</strong> @Model.ShippingAddress</p>
+                    <h6 class="mt-4">Chi tiết đơn hàng</h6>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Sản phẩm</th>
+                                <th>Số lượng</th>
+                                <th>Giá</th>
+                                <th>Tổng</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var detail in Model.OrderDetails)
+                            {
+                                <tr>
+                                    <td>@detail.Product.Name</td>
+                                    <td>@detail.Quantity</td>
+                                    <td>@detail.Price.ToString("C")</td>
+                                    <td>@(detail.Quantity* detail.Price).ToString("C")</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <a href="@Url.Action("Index", "Home")" class="btn btn-primary mt-3">Tiếp tục mua sắm</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

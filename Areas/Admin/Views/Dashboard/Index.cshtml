@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Bảng Điều Khiển Quản Trị";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2 class="text-center mb-4">Bảng Điều Khiển Quản Trị</h2>
+    <p class="text-center mb-5">Trang tổng quan dành cho quản trị viên. Quản lý sản phẩm, đơn hàng, và phản hồi từ đây.</p>
+
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Quản lý Sản phẩm</h5>
+                    <p class="card-text">Thêm, sửa, xóa sản phẩm.</p>
+                    <a asp-area="Admin" asp-controller="ProductManagement" asp-action="Index" class="btn btn-light" target="_self" onclick="console.log('Clicked');">Đi tới</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Quản lý Đơn hàng</h5>
+                    <p class="card-text">Xem và xử lý đơn hàng.</p>
+                    <a asp-area="Admin" asp-controller="OrderManagement" asp-action="Index" class="btn btn-light" target="_self">Đi tới</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-info mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Quản lý Phản hồi</h5>
+                    <p class="card-text">Xem phản hồi từ khách hàng.</p>
+                    <a asp-area="Admin" asp-controller="FeedbackManagement" asp-action="Index" class="btn btn-light" target="_self">Đi tới</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

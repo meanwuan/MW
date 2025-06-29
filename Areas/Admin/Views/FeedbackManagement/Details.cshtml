@@ -1,0 +1,15 @@
+﻿@model THweb.Models.Entities.Feedback
+@{
+    ViewData["Title"] = "Chi Tiết Phản Hồi";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2>Chi Tiết Phản Hồi #@Model.Id</h2>
+    <p><strong>Sản phẩm:</strong> @Model.Product?.Name</p>
+    <p><strong>Người dùng:</strong> @Model.UserId</p>
+    <p><strong>Đánh giá:</strong> @Model.Rating/5</p>
+    <p><strong>Bình luận:</strong> @Model.Comment</p>
+    <p><strong>Thời gian:</strong> @Model.CreatedAt.ToString("dd/MM/yyyy HH:mm")</p>
+    <a asp-action="Index" class="btn btn-secondary mt-3">Quay lại</a>
+</div>

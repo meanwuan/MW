@@ -1,0 +1,23 @@
+﻿@using THweb.Models.Entities
+@model THweb.Models.Entities.Order
+@{
+    ViewData["Title"] = "Sửa Đơn Hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2>Sửa Đơn Hàng #@Model.Id</h2>
+    <form asp-action="Edit" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <label asp-for="Status">Trạng thái</label>
+            <select asp-for="Status" class="form-control" asp-items="Html.GetEnumSelectList<OrderStatus>()"></select>
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Cập nhật</button>
+        <a asp-action="Index" class="btn btn-secondary mt-3">Quay lại</a>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

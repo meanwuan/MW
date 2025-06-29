@@ -1,0 +1,84 @@
+﻿/* Tùy chỉnh chung */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #343a40;
+    margin-bottom: 1.5rem;
+}
+
+/* Tùy chỉnh navbar */
+.navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+/* Tùy chỉnh card sản phẩm */
+.card {
+    transition: transform 0.2s;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+.card-img-top {
+    object-fit: cover;
+    height: 200px;
+}
+
+/* Tùy chỉnh form */
+.form-control {
+    border-radius: 0.25rem;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    transition: background-color 0.2s;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+        border-color: #0056b3;
+    }
+
+/* Tùy chỉnh bảng giỏ hàng */
+.table {
+    background-color: #fff;
+    border-radius: 0.25rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+    .table th, .table td {
+        vertical-align: middle;
+    }
+
+/* Tùy chỉnh footer */
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .card-img-top {
+        height: 150px;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+}
