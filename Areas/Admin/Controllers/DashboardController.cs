@@ -12,5 +12,5 @@ namespace THweb.Areas.Admin.Controllers
             Console.WriteLine("DashboardController.Index rendered");
             return View();
         }
-    }
+    }r
 }

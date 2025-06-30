@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("THweb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1ed6fbe85ef44838f583aab4a491503fe8b4485")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0819857cdc40b1e40ae3c5760fb837700fb30fed")]
 [assembly: System.Reflection.AssemblyProductAttribute("THweb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("THweb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
